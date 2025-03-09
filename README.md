@@ -5,7 +5,7 @@ Ashmita120/Ashmita120 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ashmita+Das+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7733FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ashmita+Das+!;" />
 </h1>
 
 
