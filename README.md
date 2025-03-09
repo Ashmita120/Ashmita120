@@ -107,8 +107,14 @@ You can click the Preview link to take a look at your changes.
     <a href="https://scikit-learn.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50px" title="Scikit-Learn">
     </a>
+     <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50px" title="Matplotlib">
+    </a>
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma">
+    </a>
+    <a href="https://www.canva.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px" title="Canva">
     </a>
 </p>
 
