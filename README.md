@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 
-<h1 align="center">🎯Aspiring ML Engineer🎯 </h1> 
+<h1 align="center">🎯I am an aspiring ML Engineer🎯 </h1> 
  <div align="center"> <img  src="https://static.vecteezy.com/system/resources/previews/000/242/482/large_2x/female-developer-vector.jpg" width="500px"></div>
 
 
