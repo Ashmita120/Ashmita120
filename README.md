@@ -83,6 +83,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python">
     </a>
+    <a href="https://www.r-project.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50px" title="R">
+    </a>
     <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" title="Django">
     </a>
